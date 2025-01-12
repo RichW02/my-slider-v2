@@ -1,1 +1,1 @@
-# my-sider-v2
+# my-slider-v2
